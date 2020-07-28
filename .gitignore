@@ -74,3 +74,5 @@ dkms.conf
 
 .vs/
 WshTest/Debug/
+WshTest/Release/
+Release/
